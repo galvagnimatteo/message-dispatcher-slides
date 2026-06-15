@@ -38,7 +38,7 @@ class: section
 
 <div class="eyebrow">Meno parti in movimento</div>
 
-# Da cinque pacchetti a <em>uno</em>
+# Da quattro pacchetti a <em>uno</em>
 
 <div class="grid grid-cols-2 gap-6 mt-4 items-stretch">
   <div class="card">
