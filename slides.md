@@ -2,7 +2,6 @@
 theme: default
 title: "Message dispatcher: fatto in casa?"
 colorSchema: light
-routerMode: hash
 fonts:
   sans: Plus Jakarta Sans
   weights: '300,400,500,600,700,800'
