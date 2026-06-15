@@ -128,3 +128,6 @@
 /* ── v-click reveal animation ── */
 .slidev-vclick-target { transition: opacity .4s var(--ease-out), transform .4s var(--ease-out); }
 .slidev-vclick-hidden { opacity: 0; transform: translateY(12px); }
+
+/* Hide Slidev's "go to slide" dialog — its slides list overflows and covers content */
+#slidev-goto-dialog { display: none !important; }
